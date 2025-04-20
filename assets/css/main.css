@@ -421,6 +421,11 @@ h6 {
   .mobile-nav-active .navmenu>ul {
     display: block;
   }
+
+  .hero p{
+    font-size: 1rem !important;
+    text-transform: inherit !important;
+  }
 }
 
 /*--------------------------------------------------------------
