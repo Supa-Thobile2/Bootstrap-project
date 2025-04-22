@@ -826,6 +826,14 @@ section,
     font-size: 30px;
     line-height: 36px;
   }
+  .hero h2{
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+  }
+
+  .hero p{
+    font-size: .8rem;
+  }
 }
 
 .hero .btn-scroll {
